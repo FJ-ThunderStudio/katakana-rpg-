@@ -51,6 +51,7 @@ node --test
 - `ui-asset-manifest.json` / `CODEX_UI_FRAME_INSTRUCTION.md`: 正式UI枠v1.0の対応表と導入ガイド
 - `assets/images/ui/ui-frame-*.png`: 主パネルの青枠、見出し・操作ボタンの青／緑ピル装飾
 - `assets/images/words/*.png`: Lv1～Lv3各20語、合計60語の統一テイスト教材ヒントイラスト
+- `hint-images-manifest.json`: 正式ヒント画像60点の寸法・透過情報・SHA-256一覧
 
 ## 既知の制限
 

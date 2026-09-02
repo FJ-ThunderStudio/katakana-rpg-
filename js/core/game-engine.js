@@ -176,6 +176,7 @@ class GameEngine {
   async handleCorrect() {
     const question = this.currentQuestion();
     this.ui.text("battle-message", "せいかい！ こうげき！");
+    this.showImageHint(false);
     const hero = document.getElementById("hero-image");
     const enemy = document.getElementById("enemy-image");
     hero.classList.add("is-hero-attacking");

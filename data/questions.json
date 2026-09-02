@@ -43,7 +43,7 @@
 
   {"id":"helicopter","word":"ヘリコプター","characters":["ヘ","リ","コ","プ","タ","ー"],"image":"assets/images/words/helicopter.png","difficulty":3,"category":"vehicle"},
   {"id":"ambulance","word":"キュウキュウシャ","characters":["キ","ュ","ウ","キ","ュ","ウ","シ","ャ"],"image":"assets/images/words/ambulance.png","difficulty":3,"category":"vehicle"},
-  {"id":"strawberry","word":"イチゴジャム","characters":["イ","チ","ゴ","ジ","ャ","ム"],"image":"assets/images/words/strawberry.png","difficulty":3,"category":"food"},
+  {"id":"strawberry","word":"イチゴジャム","characters":["イ","チ","ゴ","ジ","ャ","ム"],"image":"assets/images/words/strawberry-jam.png","difficulty":3,"category":"food"},
   {"id":"hamburger","word":"ハンバーガー","characters":["ハ","ン","バ","ー","ガ","ー"],"image":"assets/images/words/hamburger.png","difficulty":3,"category":"food"},
   {"id":"restaurant","word":"レストラン","characters":["レ","ス","ト","ラ","ン"],"image":"assets/images/words/restaurant.png","difficulty":3,"category":"place"},
   {"id":"supermarket","word":"スーパー","characters":["ス","ー","パ","ー"],"image":"assets/images/words/supermarket.png","difficulty":3,"category":"place"},

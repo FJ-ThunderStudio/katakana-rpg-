@@ -1,11 +1,13 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import crypto from "node:crypto";
 import { validateQuestions } from "../js/data/data-validator.js";
 import { makeCharacterTokens } from "../js/game/rules.js";
 
 const questions = JSON.parse(fs.readFileSync("data/questions.json", "utf8"));
 const settings = JSON.parse(fs.readFileSync("data/settings.json", "utf8"));
+const hintManifest = JSON.parse(fs.readFileSync("hint-images-manifest.json", "utf8"));
 const engine = fs.readFileSync("js/core/game-engine.js", "utf8");
 const css = ["css/layout.css", "css/components.css", "css/responsive.css"]
   .map((file) => fs.readFileSync(file, "utf8")).join("\n");
@@ -57,7 +59,18 @@ test("Q16: 2回目以降は画像と正解を3秒表示", () => {
   assert.equal(settings.answerDisplayMs, 3000);
 });
 test("Q17: 60語すべての画像パスが有効", () => {
-  for (const question of questions) assert.ok(fs.existsSync(question.image), question.image);
+  const manifestByFile = new Map(hintManifest.files.map((entry) => [entry.file, entry]));
+  assert.equal(hintManifest.count, 60);
+  for (const question of questions) {
+    const expectedFile = `${question.id === "strawberry" ? "strawberry-jam" : question.id}.png`;
+    const configuredFile = question.image.split("/").pop();
+    assert.equal(configuredFile, expectedFile, question.word);
+    assert.ok(fs.existsSync(question.image), question.image);
+    const entry = manifestByFile.get(configuredFile);
+    assert.ok(entry, configuredFile);
+    const hash = crypto.createHash("sha256").update(fs.readFileSync(question.image)).digest("hex");
+    assert.equal(hash, entry.sha256, configuredFile);
+  }
 });
 test("Q18: 旧SVGヒント画像が混在していない", () => {
   assert.ok(questions.every((question) => question.image.endsWith(".png")));
