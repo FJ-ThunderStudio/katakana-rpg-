@@ -1,0 +1,30 @@
+@media (max-width: 767px) {
+  .app-shell { padding: 8px; }
+  .scene { min-height: calc(100dvh - 16px); }
+  .mode-grid { grid-template-columns: 1fr; }
+  .mode-button { min-height: 108px; }
+  .combatants { grid-template-columns: 1fr 1fr; }
+  .combatant { grid-template-columns: minmax(76px, 105px) 1fr; }
+  .combatant-image, .hero-image, .battle-scene[data-mode="challenge"] .enemy-image, .battle-scene[data-mode="demonKing"] .enemy-image { height: 112px; }
+  .battle-message { grid-column: 1 / -1; grid-row: 2; }
+  .question-panel { min-height: 360px; }
+  .ui-frame-panel { border-width: 8px; border-image-width: 8px 0; }
+}
+@media (max-height: 700px) and (min-width: 768px) {
+  .app-shell { padding-block: 6px; }
+  .scene { min-height: calc(100dvh - 12px); }
+  .battle-layout { gap: 7px; }
+  .battle-header { min-height: 48px; }
+  .combatants { padding-block: 7px; }
+  .combatant { grid-template-columns: minmax(84px, 118px) 1fr; }
+  .combatant-image, .hero-image { height: 118px; }
+  .battle-scene[data-mode="challenge"] .enemy-image { height: 125px; }
+  .battle-scene[data-mode="demonKing"] .enemy-image { height: 136px; }
+  .question-panel { min-height: 330px; padding-block: 9px; gap: 8px; }
+  .hint-area { min-height: 88px; }
+  .hint-area img { width: 86px; height: 86px; }
+  .letter-button, .answer-button { width: 54px; height: 54px; font-size: 1.7rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}

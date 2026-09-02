@@ -1,0 +1,856 @@
+{
+  "title": "Katakana RPG Hint Images 01-60",
+  "count": 60,
+  "missing": [],
+  "extra": [],
+  "files": [
+    {
+      "file": "ice.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "74757319e6b93fa1d016aff608195897af9cacd78b5421c2ed5380480f28534f"
+    },
+    {
+      "file": "banana.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "9de87923046d1c359b81b89284021fe6c9472087f4d1fb9fc7340210cc633a27"
+    },
+    {
+      "file": "tomato.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "b4d56db18d0e397d63ecd7f1610fc9e9290f39d35651451e37ea15c6a144ee1a"
+    },
+    {
+      "file": "melon.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "61a374a1ef90114fc923e5c52ee9139fe71e1fa89241c8e7145bc9ee183a7018"
+    },
+    {
+      "file": "lemon.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "eee3bd59ef54b4900332f42c7d44baabf2f0ddecc41018c7d33ddaefc9da86c2"
+    },
+    {
+      "file": "panda.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "aa94d42072e4f80ba4b7facea4f74da420f5a1f4e7dc8362b19100c1b7ccd703"
+    },
+    {
+      "file": "koala.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "430cc206e1d97c0d5baa4d993f296869a4aee06d10ee13425aa1401b6b26adca"
+    },
+    {
+      "file": "gorilla.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "4fd0e4d4c3b8fac50efcd9b6f790aa52871c7d7580b182609319ce01837aa544"
+    },
+    {
+      "file": "camera.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "c58ff3d8be96c79b625d4f08af01d1774102d69cd9f31d98ef341a82072b149f"
+    },
+    {
+      "file": "radio.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "8aa129cf95e7546f7a5e1ee05f10bffd4caed8ff257fb79b47f0819d1e3fce71"
+    },
+    {
+      "file": "piano.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "c94337a4a09fcb941f3c5a505ade2ea56cdd8bf8eea3dec8f821e69f3d7b8177"
+    },
+    {
+      "file": "bus.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "74f6d3d7e59e2f701f9fe766b371a89de0d3249164ec1334e886224b65a7fca9"
+    },
+    {
+      "file": "cake.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "f836bed6056c328ac2247e8fd7f8e085de45857723eaf8f6f350b8fa59ce4b0f"
+    },
+    {
+      "file": "cup.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "8cbf3fd5f8108e4c22df46cc104756afef816dd465baf77bbe184c599ce5f520"
+    },
+    {
+      "file": "soup.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "5bc7e0189f569065437456e982801540d20891fde8f4ef2764f582a869f4cdbe"
+    },
+    {
+      "file": "shirt.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "53ea042469ab99a65f80cb2d3f57495b81fb1f86efb451fd4d111c74c806802b"
+    },
+    {
+      "file": "bed.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "7ac2393ae8cfa8535fb0eaa0f3dae6debeaafd77121a1797b96e5cb93112db19"
+    },
+    {
+      "file": "ball.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "c2f70c914e026701a499b992f95e3474562f5ea169755431f9ff921210880f5b"
+    },
+    {
+      "file": "cabbage.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "bbaddea809ceabd776f33ba76a4e9b53830db67f3ecdcf01355d677d81abcc7b"
+    },
+    {
+      "file": "cookie.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "7600fd5323a3f9369454153fa8a0e3cd9d62cb1cc9ad6093265221bb3767376f"
+    },
+    {
+      "file": "television.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "246ad25ce65dbb82365d073360cad7e655005c38d6389f4f6821efc19d8bf3a1"
+    },
+    {
+      "file": "computer.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "09bfc06b7362982a405178cf6ad8d706197c74d1c0392ed150394c78dd46cd61"
+    },
+    {
+      "file": "robot.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "df61db3937a7f46f1aab1764870bb28844a6680b5f510d75afe0a022292581f9"
+    },
+    {
+      "file": "rocket.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "761c952c7b362c675ae78ef11eb307ac39a11572485a719f2cb4c660e7f9a0ad"
+    },
+    {
+      "file": "taxi.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "273ac86e98f616b974805c76afba07a6f8c46b7fade16bb8d2e2e1c62d7b467b"
+    },
+    {
+      "file": "guitar.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "279e722e7abf060f24362fcf1be3380e5a512ce11af369be17c0f98a23170fab"
+    },
+    {
+      "file": "violin.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "b5021ec627a6a21ff13053a6de698d9d51fb1a7c0c8fdbdb08b6e626a05cf5c1"
+    },
+    {
+      "file": "sandwich.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "04cd1eeea13509c40813264308c5187fc9e5887bf7e582f120c3782fa07b5363"
+    },
+    {
+      "file": "chocolate.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "cb981a522037a6490217d9feaac05983cdc2a748ca7848ff4a8df796faaafd5a"
+    },
+    {
+      "file": "carrot.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "a7aeee88f0f9d039352f169b5997a6804f4cdcc349ee89b69a20ae4f269bf15c"
+    },
+    {
+      "file": "penguin.png",
+      "size": [
+        1230,
+        1278
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "0538f35a59bd9a9f6371c5206410f30e29f80ab5c4a5e66ef699b9ed81a0fd13"
+    },
+    {
+      "file": "kangaroo.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "59e27c865e58046134e3ead3bb5ff6aa7c5169cd34c663b3bb8013f1aafb5ab5"
+    },
+    {
+      "file": "juice.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "1960726f4b461c548228dbdf2249fcc68403a4ad9188bdb01929aa0f9fe9b85c"
+    },
+    {
+      "file": "soccer.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "946598053f0d5f14d2276a40f537143ce38034e6794e9a6bebab51dbd6429038"
+    },
+    {
+      "file": "kitchen.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "860b4bfa8a48d47e355d51e7c377b56d43945487d2adf569e17be1eb55f59d03"
+    },
+    {
+      "file": "ticket.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "6eb694241e9a53156f4ed5154d24ec6cc4839f688ef39d1988bce324e281980c"
+    },
+    {
+      "file": "cap.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "d5d89701350fb199a8a5aec4c95b996fdbbc18c2036240eff132c54da772af39"
+    },
+    {
+      "file": "chalk.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "e6cce559237e9cd5eb20aec85e1780286661d3b205ee86a37837db032a86138e"
+    },
+    {
+      "file": "shampoo.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "7b0b171c70f540b31abf7c1fc074186b64f15e768af211b96b5a7760833bd28f"
+    },
+    {
+      "file": "truck.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "c02717f5d25c30e0e445389fcad220defa779abb43bc4ad7dad11d09263b5df1"
+    },
+    {
+      "file": "helicopter.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "d8f191359420ccde2860e106c42cfe2b085983c6abcf8d0287e2fe8656a723d1"
+    },
+    {
+      "file": "ambulance.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "467e7097a57d0a8a0b00ac4f2e0bad2774894b0b1fe0ec9497f6f9e8cda1bf46"
+    },
+    {
+      "file": "strawberry-jam.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "4efb22713c951ba159a1d46da9016f89c5365f465b07f8c9c37d4971293238e3"
+    },
+    {
+      "file": "hamburger.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "daebd9e4e90cd4f678192f768da012aa9f3824684bd0955fea357f383f0ceda8"
+    },
+    {
+      "file": "restaurant.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "06e4d8b6159e5c35cef5b3665b04df64a928675ad88e67349f328c807a70c1b8"
+    },
+    {
+      "file": "supermarket.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "a6c074b047aeb0aba0d8c07fcec4aca789e7be442ee9018d9bf8c65dea7a62e6"
+    },
+    {
+      "file": "calendar.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "f9e09c3f221a073471ef5bc9a5e228364a8bb80b749f1f20e185c8d5da6533a9"
+    },
+    {
+      "file": "backpack.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "231824b782260d1349a9de19c60b7a97078d9d18f0f81350f4855c6358b151eb"
+    },
+    {
+      "file": "toothbrush.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "e562cb7f38087b5e37031c43de013bd868c23bf7b3c647b47bceb927d301a376"
+    },
+    {
+      "file": "dinosaur.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "1dbd5a15f3fc663545e217016dd9702a3d31f13d473801e1471e6eb6e3ba6ab1"
+    },
+    {
+      "file": "squirrel.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "021994b0af25d90f0c5836ef9f93d6c602f5da4653470a128d695ae7495fae15"
+    },
+    {
+      "file": "flamingo.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "3afc091524df58257dfc5d955ad5800a84fa5e7ad1ce69f4013148b9f3cd8935"
+    },
+    {
+      "file": "shutter.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "a9228d57219fd8a0d24307be9977e23451f1ceb17ca0b2f4c63b6e70df4d38d3"
+    },
+    {
+      "file": "jet.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "82b6fb9cd96fa9c62ba880e7650ad10e0f97c7088e1865c67ad63e94374209dd"
+    },
+    {
+      "file": "camp.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        254
+      ],
+      "sha256": "41d1b28b4fc2e175e18a29466917880095bc96e106f627a4122131b086e05412"
+    },
+    {
+      "file": "character.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "99a1b3e328471fddac72219b99fe719d6564162b41f99b92e0a1e25fbacd2c5c"
+    },
+    {
+      "file": "champion.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "ed18b9579e1fd33c1ffee6e63e4bc8e8792481011bbd1b614cbd1c865a300fd5"
+    },
+    {
+      "file": "music.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "865b4f5bca1b196e499bf95003b0bcc5d7af56b8e97f07cabb9fdf5f2bbfe166"
+    },
+    {
+      "file": "skateboard.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "25c90b97184bc124278bcf46b72ef1e46fa545c109f28340a68627ae59aac4b6"
+    },
+    {
+      "file": "icecream.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "has_alpha": true,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "f0bedf4e88fce436ca252f278cdd94ebb255eb0766712b4cbf5d1a67bf574725"
+    }
+  ],
+  "source_archives": [
+    "Katakana_RPG_Hint_Batch01_Lv1_01-10.zip",
+    "Katakana_RPG_Hint_Batch02_Lv1_11-20.zip",
+    "Katakana_RPG_Hint_Batch03_Lv2_21-30.zip",
+    "Katakana_RPG_Hint_Batch04_Lv2_31-40.zip",
+    "katakana-rpg-hint-images-no41-50.zip",
+    "Katakana_RPG_Word_Images_51-60.zip"
+  ]
+}

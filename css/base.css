@@ -1,0 +1,27 @@
+:root {
+  font-family: "Noto Sans JP", "Yu Gothic", "Hiragino Kaku Gothic ProN", system-ui, sans-serif;
+  color: #12314b;
+  background: #dff5ff;
+  font-synthesis: none;
+  --blue: #1769aa;
+  --blue-dark: #0e4777;
+  --gold: #ffc642;
+  --green: #38a66b;
+  --red: #db4b4b;
+  --ink: #12314b;
+  --paper: #ffffff;
+  --shadow: 0 10px 28px rgba(21, 69, 105, .18);
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; min-width: 320px; min-height: 100%; }
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+  background: radial-gradient(circle at 50% 0%, #f7fdff 0, #dff5ff 55%, #c8ecdb 100%);
+}
+button { font: inherit; }
+button:focus-visible { outline: 4px solid #ffb800; outline-offset: 3px; }
+button:disabled { cursor: not-allowed; opacity: .42; filter: grayscale(.4); }
+h1, h2, p { margin-top: 0; }
+h1 { line-height: 1.2; }
+[hidden] { display: none !important; }
